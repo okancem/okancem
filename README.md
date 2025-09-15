@@ -46,13 +46,6 @@ I enjoy building scalable systems, improving software quality with automation, a
 
 ---
 
-## 📊 GitHub Stats  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=okan-cem&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okan-cem&layout=compact&theme=radical)  
-
----
-
 ## 🌐 Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/okan-cem-35858428b/)  
 - [Email](mailto:okancem1122@gmail.com)  
