@@ -12,7 +12,7 @@ I enjoy building scalable systems, improving software quality with automation, a
 
 ## 💼 Experience  
 
-### 🌐 Co-founder & Full-stack Developer | [Eduyemek](https://eduyemek.com/)  
+### 🌐 Full-stack Developer | [Eduyemek](https://eduyemek.com/)  
 *May 2025 – Present | Istanbul, Turkey*  
 - Architected and launched Eduyemek, a commission-free full-stack food-ordering platform built with Node.js,
 Express, and a fully responsive Tailwind CSS frontend.
