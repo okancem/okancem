@@ -41,7 +41,7 @@ performance across user-facing pages.
 ## 🎓 Education  
 **Bachelor of Engineering in Software Engineering**  
 *Seneca Polytechnic – Toronto, ON*  
-*Sep 2023 – Present | GPA: 3.3*  
+*Sep 2023 – Present | GPA: 3.3/4.0*  
 
 ---
 
