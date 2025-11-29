@@ -14,18 +14,27 @@ I enjoy building scalable systems, improving software quality with automation, a
 
 ### 🌐 Co-founder & Full-stack Developer | [Eduyemek](https://eduyemek.com/)  
 *May 2025 – Present | Istanbul, Turkey*  
-- Co-founded and launched a full-stack **food delivery web app** tailored for university students  
-- Partnered with 5+ local restaurants and reached hundreds of active users  
-- Developed **secure authentication, real-time order processing, and admin dashboard**  
-- Designed scalable **RESTful APIs** (Node.js, Express, MongoDB)  
-- Built **automated test suites** (Selenium, Postman) integrated into **Jenkins CI/CD pipeline**  
+- Architected and launched Eduyemek, a commission-free full-stack food-ordering platform built with Node.js,
+Express, and a fully responsive Tailwind CSS frontend.
+- Implemented secure user authentication, dynamic cart management, real-time order processing, and a custom admin
+dashboard for restaurant partners.
+- Designed scalable RESTful APIs and integrated MongoDB schemas to support high-volume student usage and
+multi-restaurant onboarding.
+- Optimized platform performance and reduced operational overhead by restructuring backend logic to leverage a
+microservice architecture.
+- Collaborated with UI/UX designers in Agile sprints, improving mobile responsiveness, user flow, and feature delivery
+speed.
 
 ### 💻 Full-stack Developer | [Daphne Dragonfly](https://daphnedragonfly.com/)  
 *Dec 2024 – May 2025 | Toronto, Canada*  
-- Developed **account management system** (address book, favorites, order history)  
-- Integrated **Stripe API** for secure payments  
-- Designed **reusable EJS components** & REST APIs  
-- Automated testing with **Selenium WebDriver & Postman**, integrated with Jenkins  
+- Developed core account management features such as the address book, order history, and favorites, using Node.js,
+Express, and MongoDB.
+- Built reusable and scalable EJS components to streamline frontend rendering and improve maintainability.
+- Integrated Stripe API to enable secure checkout and seamless payment processing.
+- Implemented backend API endpoints and data models for user operations, optimizing database queries and data
+flows.
+- Collaborated with the engineering team to enhance platform stability, implement new features, and improve
+performance across user-facing pages.
 
 ---
 
